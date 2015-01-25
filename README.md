@@ -8,7 +8,7 @@ codebook.md includes detailed output information and proceduers performed on the
 
 The r file assume that that the original files are already downloaded and unzipped into the working directory where the run_analysis.R will be located. 
 
-the output file - new_tidy_dataset.csv is also created at the end of code and saved into the working directory. 
+the output dataset is saved as: both - new_tidy_dataset.csv and new_tidy_dataset.txt files, saved into the working directory. 
 the output file is also included in this repo.
 
 packages needed:

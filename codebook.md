@@ -17,7 +17,7 @@ Activities: 6
 Variables: 561
 Observations: 10299
 
-Tidy data, only mean and standard deviation variables: “new_tidy_dataset.csv”
+Tidy data, only mean and standard deviation variables: "new_tidy_dataset.txt" or “new_tidy_dataset.csv” both saved in working directory by r script file
 Number of subjects: 30
 Activities: 6
 Tidy set observations: 180
@@ -59,7 +59,7 @@ ORDER OF OPERATIONS
     adds column on the left with subject #,
     bind each of the 30 of averaged, group data frames into new_tidy_df final dataset
 
-13. write the resulting new_tidy_df into new_tidy_dataset.csv file into working directory
+13. write the resulting new_tidy_df into new_tidy_dataset.csv and also new_tidy_dataset.txt files into working directory
 
 A sample of 20 x 8 of tidy set is printing for visualization 
 
